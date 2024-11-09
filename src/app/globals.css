@@ -86,6 +86,10 @@ h1{
     width: fit-content;
     height: fit-content;
   }
+  body{
+    background-color:white;
+    color:black;
+  }
 #header{
     background-color: rgb(169, 226, 247);
     display: flex;
